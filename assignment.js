@@ -2,8 +2,8 @@ const sayHello = name => {
   console.log('Hi ' + name);
 }
 
-////////////////////// Task 2 complete
-const sayHello1 = (name, phrase) => {
+///////////////////// Task 3 complete
+const sayHello1 = (name, phrase = 'Hi') => {
   console.log(`${phrase} ${name}`);
 }
 
