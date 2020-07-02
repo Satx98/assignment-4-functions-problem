@@ -1,4 +1,3 @@
-///////////////// SOME CHANGES MADE FOR FOLLOWING INSTRUCTOR
 const sayHello = (name) => console.log('Hi ' + name);
 
 const sayHello2 = (name, phrase) => console.log(phrase + ' ' + name);
