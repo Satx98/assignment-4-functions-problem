@@ -1,0 +1,3 @@
+# AN ASSIGNMENT TO STUDY FUNCTIONS IN JAVASCRIPT
+
+JS functions - learning!!
